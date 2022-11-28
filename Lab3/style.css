@@ -1,0 +1,9 @@
+body { padding: 50px 50px 50px 50px; font-family: monospace; background-color: linen;}
+
+nav { border: 2px indianred; width: 45em; font-weight: bold; background-color: indianred; color: whitesmoke; text-align: center;}
+
+nav ul { display: none; list-style: none; margin: 0; padding: 0}
+nav:hover ul {display: block;}
+
+nav ul li {background-color: whitesmoke; margin-left: .5em; width:45em; color: indianred;}
+nav ul li:hover a {background-color: indianred; color: whitesmoke;}
